@@ -1,2 +1,2 @@
-print "This is just an example"
+print "This is just a"
 print "another print message"
