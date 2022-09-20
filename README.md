@@ -22,5 +22,7 @@ This is a demo repo to show members of CyberWVU how to use git and github.
  - https://medium.com/mindorks/what-is-git-commit-push-pull-log-aliases-fetch-config-clone-56bc52a3601c
 ### Learn about github 
   - https://docs.github.com/en/get-started
+  #### Github cli (gh) terminal command
+   - https://cli.github.com/
 ### Cheatsheets
   - https://education.github.com/git-cheat-sheet-education.pdf
